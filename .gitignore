@@ -1,0 +1,32 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build
+bin/
+target/
+build/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# Selenium drivers
+chromedriver*
+geckodriver*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+target/
+
+# Test output
+test-output/
+surefire-reports/
